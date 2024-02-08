@@ -135,7 +135,7 @@
 }
 
 .input-group-name {
-  @apply bg-white rounded-2xl px-5 py-3 outline-none ;
+  @apply bg-white rounded-2xl px-5 py-3 outline-none;
 }
 
 .selected-contact {
@@ -191,7 +191,7 @@
 }
 
 .send-icon {
-  @apply w-10 h-10 rounded-full hover:scale-125 ease-in-out duration-300;
+  @apply w-[36px] h-[28px] rounded-full hover:scale-125 ease-in-out duration-300;
 }
 
 /* BottomBar */

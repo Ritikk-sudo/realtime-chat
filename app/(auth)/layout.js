@@ -7,7 +7,7 @@ import Provider from "@components/Provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Let's Chat",
+  title: "sign-in",
   description: "Let's chat anyone securely",
 };
 
